@@ -42,3 +42,6 @@ CONCLUSION
 
 Through this task, I learned how to create and configure S3 bucket, upload and manage files, set permissions and generate URLs. I also gained hands-on experience with VS code, AWS toolkit and AWS CLI. These  skills are valuable for cloud computing, devops and application development roles. 
 
+OUTPUT 
+<img width="952" height="598" alt="Image" src="https://github.com/user-attachments/assets/101065f6-e245-4384-9fba-2aeb5e1e7adc" />
+
