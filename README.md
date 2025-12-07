@@ -35,5 +35,6 @@ This kind cloud storage setup is used in many real-world situations:-
 6) Big data workflow : S3 is commonly used as astorage layer for tools like Glue, Anthena and EMR.
 
 CONCLUSION 
+
 Through this task, I learned how to create and configure S3 bucket, upload and manage files, set permissions and generate URLs. I also gained hands-on experience with VS code, AWS toolkit and AWS CLI. These  skills are valuable for cloud computing, devops and application development roles. 
 
