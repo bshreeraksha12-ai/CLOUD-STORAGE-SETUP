@@ -1,18 +1,5 @@
 # CLOUD-STORAGE-SETUP
 
-*COMPANY*  :  CODTECH IT SOLUTIONS
-
-*NAME*     :  SHREERAKSHA BIRADAR
-
-*INTERN ID*:  CT04DR2150
-
-*DOMAIN*   :  CLOUD COMPUTING
-
-*DURATION* :  4 WEEKS
-
-*MENTOR*   :  NEELA SANTOSH
-
-
 **description**
 
 This project explains how to set up a secure and dependable cloud storage system using AWS (amazon web services) simple storage services (S3). Cloud storage plays a major role in how people and organizations handle data today because it allows files to be stored, organized and accessed from anywhere. Through this task, the goal was to understand how to create an S3 bucket, upload different types of files, manage permissions, and generate URLs for accessing the uploaded objects. 
